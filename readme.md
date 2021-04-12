@@ -6,10 +6,10 @@ LICENSE: [MIT](./license.md)
 
 ---
 ### Содержание 
-1. 
-2. 
-3. 
-4.
+1. [Команда git init](./init.md) 
+2. [Команда git add](./add.md)
+3. [Команда git status](./status.md) 
+4. [Команда git commit](./commit.md)
 5.
 6.
 7.
