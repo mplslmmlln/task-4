@@ -1,4 +1,4 @@
-# Инструкцияпо работе с GIT
+# Инструкция по работе с GIT
 
 LICENSE: [MIT](./license.md)
 
@@ -12,7 +12,7 @@ LICENSE: [MIT](./license.md)
 4. [Команда git commit](./commit.md)
 5. [Команда git reset](./reset.md)
 6. [Команда git rm](./rm.md)
-7. [Команда git mv](./mv.md)
+7. [Команда git clone](./clone.md)
 8. [Команда git clean](./clean.md)
 9. [Команда git config](./config.md)
 10. [Команда git push](./push.md)
