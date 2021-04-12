@@ -10,12 +10,12 @@ LICENSE: [MIT](./license.md)
 2. [Команда git add](./add.md)
 3. [Команда git status](./status.md) 
 4. [Команда git commit](./commit.md)
-5.
-6.
-7.
-8.
-9.
-10.
+5. [Команда git reset](./reset.md)
+6. [Команда git rm](./rm.md)
+7. [Команда git mv](./mv.md)
+8. [Команда git clean](./clean.md)
+9. [Команда git config](./config.md)
+10. [Команда git push](./push.md)
 
 
 
